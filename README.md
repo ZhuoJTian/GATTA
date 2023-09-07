@@ -1,5 +1,5 @@
 # GATTA
-Implementation code for the GATTA algorithm
+Implementation code for the GATTA algorithm in [Distributed Learning over Networks with Graph-Attention-Based Personalization](https://ieeexplore.ieee.org/document/10141684)
 
 ## Introduction
 The code implements the GATTA algorithm in [Distributed Learning over Networks with Graph-Attention-Based Personalization](https://ieeexplore.ieee.org/document/10141684).
