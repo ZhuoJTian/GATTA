@@ -203,4 +203,4 @@ def GAT_layer(local_paras, neigh_paras, out_sz, name2, in_drop=0.4, coef_drop=0.
             else:
                 ret = ret + local_paras
 
-        return ret #activation(ret)  #[1, 1, sz]
+        return activation(ret)  #[1, 1, sz]
